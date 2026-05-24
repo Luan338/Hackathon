@@ -1,8 +1,8 @@
-# AfroCapital Coletivo
+# Iyalode
 
 Projeto desenvolvido para o hackathon da Feira Preta.
 
-O **AfroCapital Coletivo** é uma plataforma web demonstrativa para crédito comunitário voltado a microempreendedoras negras periféricas. A proposta parte de uma lógica simples: a garantia não é o colateral. É a comunidade.
+O **Iyalode** é uma plataforma web demonstrativa para crédito comunitário voltado a microempreendedoras negras. A proposta parte de uma lógica simples: a garantia não é o colateral. É a comunidade.
 
 ## Sobre
 
