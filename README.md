@@ -1,14 +1,14 @@
 # AfroCapital Coletivo
 
-Plataforma web demonstrativa para o MVP do **AfroCapital Coletivo**, uma solução de crédito comunitário para microempreendedoras negras periféricas.
+Projeto desenvolvido para o hackathon da Feira Preta.
 
-A proposta parte de uma lógica simples: a garantia não é o colateral. É a comunidade.
+O **AfroCapital Coletivo** é uma plataforma web demonstrativa para crédito comunitário voltado a microempreendedoras negras periféricas. A proposta parte de uma lógica simples: a garantia não é o colateral. É a comunidade.
 
-## Sobre o projeto
+## Sobre
 
-O AfroCapital Coletivo organiza grupos de 10 a 20 microempreendedoras que contribuem mensalmente para um fundo compartilhado. Esse fundo permite empréstimos internos com juros baixos, enquanto a plataforma acompanha risco coletivo, recomenda ações preventivas e oferece uma trilha de aprendizado para formalização e crescimento do negócio.
+O produto organiza grupos de 10 a 20 microempreendedoras que contribuem mensalmente para um fundo compartilhado. Esse fundo permite empréstimos internos com juros baixos, enquanto a plataforma acompanha risco coletivo, recomenda ações preventivas e oferece uma trilha de aprendizado para formalização e crescimento do negócio.
 
-Esta versão é uma aplicação web mockada para demonstração no hackathon. Ela ainda não usa banco de dados nem autenticação real, mas a lógica principal foi separada em serviços de domínio para facilitar uma evolução futura para backend REST.
+Esta versão é um MVP mockado para apresentação. Ela ainda não usa banco de dados nem autenticação real, mas a lógica principal foi separada em serviços de domínio para facilitar a evolução para backend REST, PostgreSQL/Supabase e integração futura com IA.
 
 ## Funcionalidades
 
@@ -36,7 +36,7 @@ Conteúdos incluídos:
 - Como preparar o negócio para crédito maior.
 - Como apresentar o negócio para clientes ou fornecedores.
 
-Cada aula da trilha aponta para uma busca oficial de cursos do Sebrae, como MEI, finanças, preço, nota fiscal, crédito e vendas.
+Cada aula aponta para uma busca oficial de cursos do Sebrae, como MEI, finanças, preço, nota fiscal, crédito e vendas.
 
 ## Motores implementados
 
@@ -92,8 +92,6 @@ O `learningService` monta uma trilha de aprendizado usando:
 - tendência de atividade do negócio.
 
 ## Governança de acesso
-
-O produto considera três papéis principais:
 
 | Papel | Acesso esperado |
 | --- | --- |
